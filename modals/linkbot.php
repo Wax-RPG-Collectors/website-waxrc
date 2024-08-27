@@ -7,7 +7,7 @@
       </div>
       <div class="modal-body">
       <p>Play BATTLE WAXRC in our Discord community.</p>
-      <p><a href="/waxbattlebot"><img src="assets/images/btn-discord-bot.png"></a></p>
+      <p><a href="waxbattlebot"><img src="assets/images/btn-discord-bot.png"></a></p>
       </div>
       <div class="modal-footer">
    
