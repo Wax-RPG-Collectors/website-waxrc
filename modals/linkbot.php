@@ -6,7 +6,8 @@
         <h4 class="modal-title text-center bg bg-dark">Play our Game from Discord or Telegram</h4>
       </div>
       <div class="modal-body">
-      <p>Links available soon.</p>
+      <p>Play BATTLE WAXRC in our Discord community.</p>
+      <p><a href="/wabattlebot"><img src="assets/images/btn-discord-bot.png"></a></p>
       </div>
       <div class="modal-footer">
    

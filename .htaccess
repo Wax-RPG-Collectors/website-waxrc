@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^waxbattlebot\/?$ waxbattlebot.php [L]
+RewriteRule ^home\/?$ index.php [L]
